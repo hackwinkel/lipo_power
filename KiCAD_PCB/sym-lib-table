@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lipo_power)(type Legacy)(uri ${KIPRJMOD}/lipo_power.lib)(options "")(descr ""))
+)
